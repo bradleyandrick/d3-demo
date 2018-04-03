@@ -29,20 +29,20 @@ window.onload = function(){
     
     var cityPop = [
         { 
-            city: 'Madison',
-            population: 233209
+            city: 'Chapel Hill',
+            population: 59246
         },
         {
-            city: 'Milwaukee',
-            population: 594833
+            city: 'Raleigh',
+            population: 458880
         },
         {
-            city: 'Green Bay',
-            population: 104057
+            city: 'Asheville',
+            population: 89121
         },
         {
-            city: 'Superior',
-            population: 27244
+            city: 'Durham',
+            population: 263016
         }
     ];
 
